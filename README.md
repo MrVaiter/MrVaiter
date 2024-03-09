@@ -13,4 +13,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrvaiter&show_icons=true&theme=onedark&locale=en" alt="mrvaiter" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrvaiter" alt="mrvaiter" /></a> </p>
