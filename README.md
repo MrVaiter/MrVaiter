@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">A passionate cloud-full-stack developer from Ukraine</h4>
+<h4 align="center">A passionate DevOps from Ukraine</h4>
 
 ###
 
